@@ -10,4 +10,4 @@ plugins:
       repos:
         - section: refarch-001
           section_path: reference-architectures
-          import_url: "https://github.com/trivoallan/refarch-skel?edit_uri=/blob/main/&branch=main&extra_imports=['.pages']"
+          import_url: "https://github.com/clap-demo/refarch-001
